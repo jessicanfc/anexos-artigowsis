@@ -20,4 +20,4 @@ O PDF inclui os seguintes detalhes:
 Este conteúdo está disponível para livre acesso e consulta. Caso você encontre algum erro ou tenha sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request. Toda contribuição é bem-vinda!
 
 ## Licença
-Este repositório está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+Este repositório está licenciado sob a Licença Creative Commons. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
