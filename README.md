@@ -14,9 +14,9 @@ O objetivo deste repositório é fornecer acesso aberto aos anexos complementare
 
 - **Classificação de Riscos (PDF)**: A tabela apresenta uma visão abrangente dos principais riscos que podem afetar projetos de software, proporcionando uma ferramenta eficaz para sua gestão e prevenção. O PDF inclui:
 
-- Descrição dos riscos identificados
-- Referências às fontes da literatura que mencionam esses riscos
-- Relevância dos riscos no contexto dos projetos de TI, especialmente em Empresas Juniores
+  - Descrição dos riscos identificados
+  - Referências às fontes da literatura que mencionam esses riscos
+  - Relevância dos riscos no contexto dos projetos de TI, especialmente em Empresas Juniores
 
 - **Perguntas do Questionário de Coleta de Dados (PDF)**: Documento contendo as perguntas utilizadas para o formulário de coleta de dados, que apoiará a análise dos riscos e a proposição de ferramentas e metodologias. Esse questionário foi projetado para capturar informações práticas e específicas das EJs, auxiliando na identificação das necessidades e desafios enfrentados no gerenciamento de projetos.
 
