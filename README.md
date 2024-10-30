@@ -1,7 +1,4 @@
 # Anexos do Artigo "Project Management Practices and Challenges in Junior IT Companies"
-
-Este repositório contém a tabela detalhada de riscos em projetos de software identificados na literatura, compilada a partir de diversos autores e fontes de referência, bem como outros anexos que complementam o estudo. A tabela foi extraída do meu Trabalho de Conclusão de Curso I, intitulado: "Processos para Gerenciamento de Projetos em Empresas Juniores dos Cursos de Tecnologia da Informação", e é disponibilizada neste repositório para facilitar o acesso por parte dos leitores do meu artigo.
-
 ## Contexto
 
 Os anexos incluídos neste repositório são parte integrante de um estudo focado no gerenciamento de projetos em Empresas Juniores, com especial atenção às empresas ligadas aos cursos de Tecnologia da Informação (TI). Os riscos mencionados e os dados coletados são amplamente discutidos na literatura acadêmica e foram organizados para auxiliar gestores e desenvolvedores na identificação e mitigação de fatores que podem impactar negativamente o desenvolvimento de software. Além disso, o questionário de coleta de dados adicionado visa complementar a análise e apoiar as propostas de ferramentas e metodologias para otimizar a gestão de projetos.
